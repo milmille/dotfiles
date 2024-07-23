@@ -1,6 +1,6 @@
 [font]
 normal={ family = "DejaVuSansM Nerd Font Mono", style = "Regular"}
-size = 13
+size = 9
 
 [window]
 decorations_theme_variant = "dark"
